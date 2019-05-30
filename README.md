@@ -7,11 +7,7 @@ Thanks to: https://stackoverflow.com/users/10539074/eugene
 
 ## Basic Usage
 
-![Basic Samples](docs/basic.gif)
-
-#### 2 Items
-
-```xml
+```
 ToggleWidget(
     activeBgColor: Colors.white,
     activeTextColor: Colors.black,
